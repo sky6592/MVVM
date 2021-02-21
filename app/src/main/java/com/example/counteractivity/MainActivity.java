@@ -22,7 +22,6 @@ public class MainActivity extends AppCompatActivity {
     private EditText mTodoEditText;
     private TextView mResultTextView;
 
-//수정
    @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
