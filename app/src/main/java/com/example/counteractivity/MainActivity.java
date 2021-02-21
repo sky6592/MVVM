@@ -73,7 +73,6 @@ public class MainActivity extends AppCompatActivity {
         protected Void doInBackground(Todo... todos) {
             return null;
 
-            //check
         }
     }
 }
