@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         mTodoEditText = findViewById(R.id.todo_edit);
         mResultTextView = findViewById(R.id.result_text);
 
-//        todo-db 데이터베이스 파일이 실제로 생성된다
+        //todo-db 데이터베이스 파일이 실제로 생성된다
         //데이터베이스객체 생성
         AppDatabase db = Room.databaseBuilder(this, AppDatabase.class, "todo-db")
                 .allowMainThreadQueries()
