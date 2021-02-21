@@ -22,8 +22,8 @@ public class MainActivity extends AppCompatActivity {
     private EditText mTodoEditText;
     private TextView mResultTextView;
 
-//체크합니다
-    @Override
+//다시한번
+   @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_room);
