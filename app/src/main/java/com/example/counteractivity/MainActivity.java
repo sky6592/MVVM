@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView mResultTextView;
 
 
-    //cjeck
+    //check
    @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
